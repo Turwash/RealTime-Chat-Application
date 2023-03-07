@@ -1,7 +1,7 @@
 # Real Time Chat Application 
 
-This is a Full Stack Project Of Real Time Chat Application Using Technologies of :
-1. HTML <br>
+This is a Full Stack Project Of Real Time Chat Application Using Technologies of : <br>
+1.HTML <br>
 2.CSS <br>
 3.Bootstrap <br>
 4.Javascript <br>
